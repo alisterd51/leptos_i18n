@@ -14,7 +14,7 @@ console_error_panic_hook = { version = "0.1" }
 wasm-bindgen = { version = "0.2" }
 
 [build-dependencies]
-syn = { version = "2.0" }
+syn = { version = "3" }
 proc-macro2 = { version = "1" }
 quote = { version = "1" }
 

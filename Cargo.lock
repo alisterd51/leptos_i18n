@@ -2151,7 +2151,7 @@ dependencies = [
  "leptos_i18n_parser",
  "prettyplease",
  "proc-macro2",
- "syn 2.0.117",
+ "syn 3.0.4",
 ]
 
 [[package]]
@@ -2162,7 +2162,7 @@ dependencies = [
  "leptos_i18n_parser",
  "proc-macro2",
  "quote",
- "syn 2.0.117",
+ "syn 3.0.4",
  "tinystr",
 ]
 
@@ -2178,7 +2178,7 @@ dependencies = [
  "quote",
  "serde",
  "serde_json",
- "syn 2.0.117",
+ "syn 3.0.4",
  "tinystr",
  "toml 1.1.2+spec-1.1.0",
 ]
@@ -2197,7 +2197,7 @@ dependencies = [
  "serde",
  "serde_json",
  "serde_yaml",
- "syn 2.0.117",
+ "syn 3.0.4",
  "tinystr",
  "toml 1.1.2+spec-1.1.0",
 ]

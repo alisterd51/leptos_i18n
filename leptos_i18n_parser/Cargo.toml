@@ -23,7 +23,7 @@ fixed_decimal = { workspace = true, features = [
 ], default-features = false }
 json5 = { workspace = true, default-features = true }
 quote = { workspace = true, default-features = true }
-syn = { workspace = true, default-features = true }
+syn = { workspace = true, default-features = true, features = ["full"] }
 proc-macro2 = { workspace = true, default-features = true }
 tinystr = { workspace = true, default-features = false }
 
